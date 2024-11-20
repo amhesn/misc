@@ -1,0 +1,4 @@
+datablock0 - 500ms delay
+datablock1 - 100ms delay
+datablock2 - 1000ms delay
+datablock3 - 500ms delay
